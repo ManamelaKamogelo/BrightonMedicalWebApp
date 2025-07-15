@@ -239,7 +239,7 @@ namespace _32667019_examProject
         protected void logOutBtn_Click(object sender, EventArgs e)
         {
             //return to the logIn Page
-            Response.Redirect("brightonMedical.aspx");k
+            Response.Redirect("brightonMedical.aspx");
         }
 
         protected void updateAppointment_Click(object sender, EventArgs e)
